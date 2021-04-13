@@ -1,3 +1,5 @@
+:warning: This is a read only repository, all development has been moved to [SkynetLabs/skynet-webportal](https://github.com/SkynetLabs/skynet-webportal).
+
 # Skynet Portal
 
 ## Web application
